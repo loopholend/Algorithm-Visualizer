@@ -1,5 +1,6 @@
 # Algorithm-Visualizer
 A C++ console-based, menu-driven algorithm visualizer for classic sorting and searching algorithms. Enter any array and step through Bubble, Insertion, Merge, Quick, Count, Radix sort, and searches, with detailed step-by-step output for easy learning.
+
 Algorithm Visualizer — Console-based (C++)
 A menu-driven, step-by-step Algorithm Visualizer for the C++ console.
 Practice, learn, and visualize classic sorting and searching algorithms interactively using just your terminal!
